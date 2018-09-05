@@ -6,10 +6,6 @@ Jupyter notebook performing image classification with `sklearn.svm`.
 
 Image files used are from  https://github.com/Abhishek-Arora/Image-Classification-Using-SVM
 
-## Requirements
+## Installation
 
-python=3.6
-scikit-learn
-scikit-image
-matplotlib
-jupyter notebook
+conda create -n NAME python=3.6 scikit-learn scikit-image matplotlib jupyter notebook
